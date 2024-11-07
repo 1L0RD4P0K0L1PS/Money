@@ -1,0 +1,11 @@
+#ignore private fi
+*.pb
+
+#ignore temporary files
+*.meta
+
+#ignore private folders
+priveInformatie/
+
+#ignore large files
+images/Schloss_Marienburg_im_herbstlichen_Abendlicht.psd
